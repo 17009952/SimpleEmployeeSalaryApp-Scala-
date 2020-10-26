@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\User\FinalAssessment\src\main\resources\application.conf,C:\Users\User\FinalAssessment\target\scala-2.12\classes\application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\User\FinalAssessment\src\main\resources\ch\makery\address\view\PersonEditDialog.fxml,C:\Users\User\FinalAssessment\target\scala-2.12\classes\ch\makery\address\view\PersonEditDialog.fxml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\User\FinalAssessment\src\main\resources\ch\makery\address\view\PersonOverview.fxml,C:\Users\User\FinalAssessment\target\scala-2.12\classes\ch\makery\address\view\PersonOverview.fxml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(C:\Users\User\FinalAssessment\src\main\resources\ch\makery\address\view\RootLayout.fxml,C:\Users\User\FinalAssessment\target\scala-2.12\classes\ch\makery\address\view\RootLayout.fxml)[0m
